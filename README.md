@@ -21,7 +21,9 @@ df = pd.read_csv("IRIS.csv")
 print(df.head(4))
 
 #Training the DataSet
-Code can be found at 
+Code can be found at https://github.com/SarfoEmmanuel/Irisassignment/blob/main/irisfinalassgnment.ipynb
+
+
 
 
 
